@@ -1,1 +1,12 @@
-/* your code */
+table{
+	border : 1px solid black
+}
+#header{
+	background-color:skyblue
+}
+.row1{
+	margin: 100px
+}
+.row2{
+	background-color:ghostwhite
+}
